@@ -17,7 +17,7 @@ HTML, CSS, JavaScript 等のフロント側で作ったポートフォリオで�
 
 対象ディレクトリ内の .git / config を開いて
 
-> url = https\://github.com/kitamura-hub/FrontEnd_Portfolio.git  
+> url = (例)https://github.com/kitamura-hub/FrontEnd_Portfolio.git  
 > を  
-> url = https\://github.com/kitamura-hub/WebDesign_Portfolio.git  
+> url = (例)https://github.com/kitamura-hub/WebDesign_Portfolio.git  
 > に変更
