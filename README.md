@@ -7,7 +7,7 @@ HTML, CSS, JavaScript 等のフロント側で作ったポートフォリオで�
 
 ---
 
-### change repository
+### change repository name
 
 #### GitHub 側の操作
 
