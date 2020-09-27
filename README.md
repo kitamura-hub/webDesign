@@ -1,23 +1,16 @@
-# webDesign
+<br />
 
-### descpriction
+<h3 align="center">My WebDesign Portfolio</h3>
+<h3 align="center">This work uses front-end technology</h3>
 
-HTML, CSS, JavaScript 等のフロント側で作ったポートフォリオです  
-なお、ポートフォリオは Web に落ちているサンプリングになります
+<br />
 
----
+## Thanks
+ 
+<p>Thank you for watching my work. We will continue to strive to provide better works.</p>
 
-### change repository name
+<br />
 
-#### GitHub 側の操作
+## Author
 
-> GitHub の対象リポジトリ / Setting / Rename で変更
-
-#### ローカル側の操作
-
-対象ディレクトリ内の .git / config を開いて
-
-> url = (例)https://github.com/kitamura-hub/FrontEnd_Portfolio.git  
-> を  
-> url = (例)https://github.com/kitamura-hub/WebDesign_Portfolio.git  
-> に変更
+[Masato Kitamura](https://github.com/kitamura-hub)
